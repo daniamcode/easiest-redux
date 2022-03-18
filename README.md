@@ -1,5 +1,6 @@
 # easiest-redux
 Showing how to use Redux's basic concepts with plain vanilla js
+from https://www.youtube.com/watch?v=oD3miHerQbY
 
 1.Create index.html with an input, a button, and a div to display a list of "to-do's"
 2.Add redux script to index.html
